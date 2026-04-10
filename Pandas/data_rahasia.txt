@@ -1,0 +1,4 @@
+Aset	Signal	Price
+BTC	BUY	65000
+ETH	SELL	3500
+SOL	HOLD	140
