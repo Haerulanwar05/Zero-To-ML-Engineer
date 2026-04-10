@@ -1,8 +1,6 @@
-# Zero-To-ML-Engineer
+# 🤖 Project: Zero to ML Engineer
 
 Informatics student's journey in Machine Learning. Exploring algorithms, data preprocessing, and building end-to-end ML projects from scratch.
-
-🤖 Project: Zero to ML Engineer
 
 Selamat datang di repositori dokumentasi belajar saya. Sebagai mahasiswa Teknik Informatika di Universitas Trilogi, saya membangun ruang ini sebagai bukti komitmen saya dalam mendalami Machine Learning secara mandiri di luar kurikulum kampus. Fokus utama saya adalah menjembatani jarak antara teori akademik dengan implementasi praktis yang saya pelajari melalui dokumentasi teknis serta berbagai sumber industri.
 
